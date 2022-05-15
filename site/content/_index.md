@@ -3,7 +3,7 @@ title: "Asculta Muzica online gratis"
 subtitle: muzica online gratis, manele online, muzica romaneasca si videoclipuri, muzica straina si de club
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: <a href="https://www.music4all.ro">music4all.ro</a>?
+    heading: De ce https://www.music4all.ro ?
     text: "Asculta online cea mai noua muzica. Manele online youtube, romaneasca si videoclipuri gratis!"
 intro:
     heading: "What we offer"
